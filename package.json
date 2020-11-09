@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cullinans1/tech-blog.git"
+    "url": "git+https://github.com/NicholasDelaGarza/tech.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cullinans1/tech-blog/issues"
+    "url": "https://github.com/NicholasDelaGarza/tech/issues"
   },
-  "homepage": "https://github.com/cullinans1/tech-blog#readme"
+  "homepage": "https://github.com/NicholasDelaGarza/tech#readme"
 }
